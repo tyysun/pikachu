@@ -35,6 +35,7 @@
 
   let code = `
  /*
+  * 大家好，我是汤永阳，今天来给大家介绍一下如何使用CSS画只pikachu
   * 首先，需要准备皮卡丘的背景
   */
  .preview-wrapper{
