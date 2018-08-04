@@ -29,6 +29,7 @@ body {
   border: 1px solid red;
   /* overflow-y: auto */
   position: relative;
+  padding: 20px 15px
 }
 
 #code{
@@ -179,8 +180,8 @@ body {
 } */
 .actions{
   position: absolute;
-  right: 10px;
-  top: 10px;
+  right: 15px;
+  top: 20px;
   display: flex;
   flex-direction: column;
 }
