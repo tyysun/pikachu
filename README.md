@@ -1,4 +1,4 @@
-# pikachu
+# 绘制皮卡丘
 
 使用HTML,CSS,JavaScript展现一只pikachu如何画出来,浏览地址  
 
